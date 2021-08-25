@@ -8,7 +8,7 @@
     "hooks": [
     {
         "hook_id": "lib/managers/dlcmanager",
-        "script_path": "dlc-unlock.lua"
+        "script_path": "dlc-unlocker.lua"
     }
     ]
 }
