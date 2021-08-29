@@ -21,8 +21,22 @@ Attention, **SOME** weapons and weapon modifications are allowed, but most of th
  - Equipment from DLC such as molotov, kingpin injector etc.
  - **SOME** Weapons modifications from DLC
 
+ I recommend doing separate builds, a host build, and a client build without getting cheater tag.
+
  For example, without dlc unlocker I couldn't do some modifications to my shotgun. But with dlc unlocker, i can do modifications without having cheater tag and here is an example of modifications that are allowed and doesn't give cheater tag!
 
- # Example of a shotgun with DLC weapon modifications without getting cheater tag
+ ## Example of a shotgun with DLC weapon modifications WITHOUT getting cheater tag
 
- # IN CONSTRUCTION
+![mod01](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/mod01.png)
+
+![mod02](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/mod02.png)
+
+![mod03](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/mod03.png)
+
+## These weapon modifications gives CHEATER TAG
+
+Single Fire / Auto Fire
+![cheatertag01mod](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/cheatertag01.png)
+
+Ak Rubber Grip
+![cheatertag02mod](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/cheatertag02.png)
