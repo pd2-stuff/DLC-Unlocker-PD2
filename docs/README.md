@@ -40,3 +40,15 @@ Single Fire / Auto Fire
 
 Ak Rubber Grip
 ![cheatertag02mod](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/cheatertag02.png)
+
+## Outfit / Gloves / Characters / Perck Deck / Throwable
+
+It doesnt give cheater tag
+
+![perdkdeck](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/perkdeck.png)
+
+![throwable](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/throwable.png)
+
+![gloves](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/gloves.png)
+
+![characters](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/characters.png)
