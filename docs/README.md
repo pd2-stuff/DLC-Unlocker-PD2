@@ -51,4 +51,7 @@ It doesnt give cheater tag
 
 ![gloves](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/gloves.png)
 
+![outfit](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/outfit.png)
+
+
 ![characters](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/characters.png)
