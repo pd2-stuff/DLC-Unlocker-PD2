@@ -1,14 +1,11 @@
-{
-    "name": "DLC Unlocker",
-    "description": "Unlocks all existing DLC Content.",
-    "author": "=T$K=",
-    "contact": "https://github.com/8fn/DLC-Unlocker-PD2/issues",
-    "version": "v1.0.0",
-    
-    "hooks": [
-    {
-        "hook_id": "lib/managers/dlcmanager",
-        "script_path": "dlc-unlocker.lua"
-    }
-    ]
+{		"name" :		"Doom soundtrack test by khan",
+		"description" : "Doom soundtrack test by khan",
+		"author" :		"",
+		"contact" :		"",
+		"version" :		"",
+	"persist_scripts" :
+	[
+		
+		{"global" : "Skin Unlocker", "script_path" : "Scripts/Skin Unlocker.lua"}
+	],
 }
