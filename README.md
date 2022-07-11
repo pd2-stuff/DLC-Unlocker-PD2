@@ -14,13 +14,13 @@ Outside of the Scripts Folder, create a mod.txt
 
 {		
     "name" :		"EDIT HERE",
-		"description" : "EDIT HERE",
-		"author" :		"EDIT HERE",
-		"contact" :		"OPTIONAL",
-		"version" :		"OPTIONAL",
-	"persist_scripts" :
-	[
-		{"global" : "Skin Unlocker", "script_path" : "Scripts/Skin Unlocker.lua"}
-	],
+    "description" : "EDIT HERE",
+    "author" :		"EDIT HERE",
+    "contact" :		"OPTIONAL",
+    "version" :		"OPTIONAL",
+    "persist_scripts" :
+    [
+    {"global" : "Skin Unlocker", "script_path" : "Scripts/Skin Unlocker.lua"}
+    ],
 }
 ```
