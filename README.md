@@ -20,7 +20,7 @@ Outside of the Scripts Folder, create a mod.txt
     "version" :		"OPTIONAL",
     "persist_scripts" :
     [
-    {"global" : "Skin Unlocker", "script_path" : "Scripts/Skin Unlocker.lua"}
+        {"global" : "Skin Unlocker", "script_path" : "Scripts/Skin Unlocker.lua"}
     ],
 }
 ```
