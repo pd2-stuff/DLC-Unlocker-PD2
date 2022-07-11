@@ -1,5 +1,8 @@
 # Payday2 Free Skins Unlocker
 
+### Warning!
+Everyone will see that you have Legendary Skins at the lobby / in-game session
+
 Get Any Legendary Skins Payday2
 
 Script [here!](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/legendary-skins/Scripts/Skin%20Unlocker.LUA)
