@@ -11,7 +11,6 @@ Create a folder in payday2 mods folder named anything you want. Inside of that f
 Outside of the Scripts Folder, create a mod.txt
 
 ```
-
 {		
     "name" :		"EDIT HERE",
     "description" : "EDIT HERE",
