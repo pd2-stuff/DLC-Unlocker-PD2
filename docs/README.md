@@ -61,10 +61,10 @@ Bypass by changing your way the name of this mod in `mod.txt`
 ```js
 
 {
-    "name": "DLC Unlocker",
-    "description": "Unlocks all existing DLC Content.",
-    "author": "=T$K=",
-    "contact": "https://github.com/8fn/DLC-Unlocker-PD2/issues",
+    "name": "EDIT HERE",
+    "description": "EDIT HERE",
+    "author": EDIT HERE",
+    "contact": "EDIT HERE",
     "version": "v1.0.0",
     
     "hooks": [
