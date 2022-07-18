@@ -1,8 +1,15 @@
 # DLC Unlocker
 
 ## ⚠️Warning⚠️
+**ALWAYS** do separate builds!!!  
 
 Attention, **SOME** weapons and weapon modifications are allowed, but most of them gives cheater tag. If you want to enter a public lobby, make sure you avoid using weapons, weapon modifications, masks and weapons colors that are DLC because otherwise, you will automatically be kicked by public lobbies.
+
+## Instalation
+Download [here!](https://github.com/8fn/DLC-Unlocker-PD2/archive/refs/heads/master.zip)
+Extract the zip and drag the folder inside of the payday2 mods folder
+
+Start the game and enjoy!
 
 ## What gives you cheater tag
  - Masks from DLC
@@ -61,10 +68,10 @@ Bypass by changing your way the name of this mod in `mod.txt`
 ```js
 
 {
-    "name": "DLC Unlocker",
-    "description": "Unlocks all existing DLC Content.",
-    "author": "=T$K=",
-    "contact": "https://github.com/8fn/DLC-Unlocker-PD2/issues",
+    "name": "EDIT HERE",
+    "description": "EDIT HERE",
+    "author": EDIT HERE",
+    "contact": "EDIT HERE",
     "version": "v1.0.0",
     
     "hooks": [
