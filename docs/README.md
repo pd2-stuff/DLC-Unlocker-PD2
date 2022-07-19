@@ -9,6 +9,7 @@
 
 Attention, **SOME** weapons and weapon modifications are allowed, but most of them gives cheater tag. If you want to enter a public lobby, make sure you avoid using weapons, weapon modifications, masks and weapons colors that are DLC because otherwise, you will automatically be kicked by public lobbies.
 
+
 ## Instalation
 Download [here!](https://github.com/8fn/DLC-Unlocker-PD2/archive/refs/heads/master.zip)
 Extract the zip and drag the folder inside of the payday2 mods folder
@@ -86,3 +87,6 @@ Bypass by changing your way the name of this mod in `mod.txt`
     ]
 }
 ```
+
+## Legendary Skins
+Download [here!](https://github.com/8fn/DLC-Unlocker-PD2/tree/legendary-skins)
