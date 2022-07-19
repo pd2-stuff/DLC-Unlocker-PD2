@@ -1,7 +1,7 @@
 <h1 align="center"> DLC Unlocker Payday2 </h1>
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/d/d8/Payday2-logo.png](https://www.logolynx.com/images/logolynx/58/58e09e345bf4418675260cfe6d2d9ed0.png)">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Payday2-logo.png](https://www.logolynx.com/images/logolynx/58/58e09e345bf4418675260cfe6d2d9ed0.png">
 </p>
 
 ## ⚠️Warning⚠️
