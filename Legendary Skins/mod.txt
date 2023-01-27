@@ -1,5 +1,5 @@
-{		"name" :		"Doom soundtrack test by khan",
-		"description" : "Doom soundtrack test by khan",
+{		"name" :		"Legendary Skins",
+		"description" : "Legendary Skins",
 		"author" :		"",
 		"contact" :		"",
 		"version" :		"",
