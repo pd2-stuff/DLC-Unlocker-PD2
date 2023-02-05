@@ -89,4 +89,4 @@ Bypass by changing your way the name of this mod in `mod.txt`
 ```
 
 ## Legendary Skins
-Download [here!](https://github.com/8fn/DLC-Unlocker-PD2/tree/legendary-skins)
+Download [here!](https://github.com/8fn/LegendarySkins-PD2)
