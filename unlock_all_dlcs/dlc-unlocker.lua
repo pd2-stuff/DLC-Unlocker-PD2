@@ -1,5 +1,9 @@
-function WINDLCManager:_verify_dlcs()
-    for dlc_name, dlc_data in pairs(Global.dlc_manager.all_dlc_data) do
-        dlc_data.verified = true
-    end
+function WinSteamDLCManager:_check_dlc_data(dlc_data)
+    return true
+end
+function WinEpicDLCManager:_check_dlc_data(dlc_data)
+    return true
+end
+function WINDLCManager:_check_dlc_data(dlc_data)
+    return true
 end
