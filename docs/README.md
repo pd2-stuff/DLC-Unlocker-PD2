@@ -75,7 +75,7 @@ Bypass by changing your way the name of this mod in `mod.txt`
 {
     "name": "EDIT HERE",
     "description": "EDIT HERE",
-    "author": EDIT HERE",
+    "author": "EDIT HERE",
     "contact": "EDIT HERE",
     "version": "v1.0.0",
     
