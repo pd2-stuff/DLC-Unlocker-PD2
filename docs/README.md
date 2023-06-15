@@ -95,7 +95,6 @@ Bypass by changing your way the name of this mod in `mod.txt`
 ## Legendary Skins
 Download [here!](https://github.com/8fn/LegendarySkins-PD2)
 
-Contributing
-============
+## Contributing
 If you want to contribute and make it better, your help is very welcome. Feel free to make pull requests.
 
