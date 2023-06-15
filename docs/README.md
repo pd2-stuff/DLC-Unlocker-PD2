@@ -10,9 +10,13 @@
 Attention, **SOME** weapons and weapon modifications are allowed, but most of them gives cheater tag. If you want to enter a public lobby, make sure you avoid using weapons, weapon modifications, masks and weapons colors that are DLC because otherwise, you will automatically be kicked by public lobbies.
 
 
-## Instalation
-Download [here!](https://github.com/8fn/DLC-Unlocker-PD2/archive/refs/heads/master.zip)
-Extract the zip and drag the folder inside of the payday2 mods folder
+## Installation
+You need [superblt](https://superblt.znix.xyz/)  
+Download [here!](https://github.com/8fn/DLC-Unlocker-PD2/archive/refs/heads/master.zip)  
+Extract the zip, choose the folder and drag into the payday2 mods folder  
+⚠️If you want to unlock all dlcs, drag the unlock_all_dlcs folder into the mods folder  
+⚠️If you want to unlock only characters, drag the unlock_only_characters folder into the mods folder  
+
 
 Start the game and enjoy!
 
