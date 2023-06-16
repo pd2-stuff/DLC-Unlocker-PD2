@@ -1,0 +1,14 @@
+{
+    "name": "DLC unlocker",
+    "description": "Unlocks chosen DLCs",
+    "author": "",
+    "contact": "",
+    "version": "v1.0.0",
+    
+    "hooks": [
+    {
+        "hook_id": "lib/managers/dlcmanager",
+        "script_path": "dlc-unlocker.lua"
+    }
+    ]
+}
