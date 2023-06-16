@@ -44,6 +44,21 @@ function get_heists()
     
 end
 
+function unlock_dlcs(dlc_data)
+    if(heists[1] == nil) then
+        get_heists()
+    end
+
+    if(heists[1] == "*") then
+        return true
+    end
+
+    if has_value(heists, GetDLCName(dlc_data)) then
+        return true 
+    end
+
+    return false
+end
 
 old_steam_check = old_steam_check or WinSteamDLCManager._check_dlc_data
 old_epic_check = old_epic_check or WinEpicDLCManager._check_dlc_data
@@ -51,54 +66,20 @@ old_win_check = old_win_check or WINDLCManager._check_dlc_data
 
 
 function WinSteamDLCManager:_check_dlc_data(dlc_data)
-    if(heists[1] == nil) then
-        get_heists()
-    end
-
-    if(heists[1] == "*") then
-        return true
-    end
-
-    if has_value(heists, GetDLCName(dlc_data)) then
-        return true 
-    end
-
     -- if has_value(heists, dlc_data.app_id) then
     --     return true 
     -- end
 
-    return old_steam_check(self, dlc_data)
+    return unlock_dlcs(dlc_data) or old_steam_check(self, dlc_data)
 
 end
 
 function WinEpicDLCManager:_check_dlc_data(dlc_data)
-    if(heists[1] == nil) then
-        get_heists()
-    end
 
-    if(heists[1] == "*") then
-        return true
-    end
-
-    if has_value(heists, GetDLCName(dlc_data)) then
-        return true 
-    end
-
-    return old_epic_check(self, dlc_data)
+    return unlock_dlcs(dlc_data) or old_epic_check(self, dlc_data)
 end
 
 function WINDLCManager:_check_dlc_data(dlc_data)
-    if(heists[1] == nil) then
-        get_heists()
-    end
 
-    if(heists[1] == "*") then
-        return true
-    end
-
-    if has_value(heists, GetDLCName(dlc_data)) then
-        return true 
-    end
-
-    return old_epic_check(self, dlc_data)
+    return unlock_dlcs(dlc_data) or old_epic_check(self, dlc_data)
 end
