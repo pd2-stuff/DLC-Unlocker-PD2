@@ -1,4 +1,4 @@
-<h1 align="center"> DLC Unlocker Payday2 </h1>
+<h1 align="center"> DLC Unlocker Payday 2 </h1>
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Payday2-logo.png">
@@ -7,41 +7,65 @@
 ## ⚠️Warning⚠️
 **ALWAYS** do separate builds!!!  
 
-Attention, **SOME** weapons and weapon modifications are allowed, but most of them gives cheater tag. If you want to enter a public lobby, make sure you avoid using weapons, weapon modifications, masks and weapons colors that are DLC because otherwise, you will automatically be kicked by public lobbies.
+Attention, **SOME** weapons and weapon modifications are allowed, but most of them give you CHEATER TAG. If you want to enter a public lobby, make sure you avoid using weapons, weapon modifications, masks and weapons colors that are DLC - otherwise, you will be automatically kicked from the game.
 
 
 ## Installation
-You need [superblt](https://superblt.znix.xyz/)  
-Download dlc unlocker [here!](https://github.com/8fn/DLC-Unlocker-PD2/archive/refs/heads/master.zip)  
-Extract the zip, choose the folder and drag into the payday2 mods folder  
-⚠️If you want to unlock all dlcs, drag the unlock_all_dlcs folder into the mods folder  
-⚠️If you want to unlock only characters, drag the unlock_only_characters folder into the mods folder  
+You need SuperBLT for the mod to work. [Download it here.](https://superblt.znix.xyz)  
+Download the DLC Unlocker [here!](https://github.com/8fn/DLC-Unlocker-PD2/archive/refs/heads/master.zip)  
+
+To find the game folder you can do the following:
+
+If you're on Steam:
+
+![steam_browse_local_files](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/steam_local_files.gif)
+
+If you're on Epic Games: (Ignore the fact the example shows GTA, you can do the same for Payday 2)
+
+![epic_browse_local_files](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/epic_local_files.gif)
+
+Then, just extract the zip into the Payday 2 mods folder!
+
+If you don't have a mods folder yet, launch Payday 2 once after you've installed SuperBLT. Doing this will create the mods folder and install the required SuperBLT Hook and dependencies.
+
+This popup will appear. Press 'Yes' and wait until it's done.
+
+![superblt_popup](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/superblt_popup.png)
+
+Afterwards, you should see the mods folder and you're ready to install the DLC Unlocker.
+
+
+⚠️If you want to unlock all DLCs, only drag the unlock_all_dlcs folder into the mods folder  
+⚠️If you only want to unlock Characters, only drag the unlock_only_characters folder into the mods folder  
+⚠️If you only want to unlock Heists, only drag the unlock_only_heists folder into the mods folder
 
 
 Start the game and enjoy!
 
-## What gives you cheater tag
+## What gives you CHEATER TAG
  - Masks from DLC
  - Weapons from DLC
- - Some Weapons Modifications from DLC
- - Hosting an contract heist from DLC
- - Weapons Colours from DLC
+ - Weapon Modifications from DLC
+ - Hosting a Contract Heist from DLC
+ - Weapon Colors from DLC
  - Patterns and Materials Mask from DLC
- - Melee item from DLC
+ - Melee Items from DLC
 
-## What doesn't give you cheater tag
+## What doesn't give you CHEATER TAG
  - Outfits from DLC
  - Gloves from DLC
  - Characters from DLC
- - Perck Decks from DLC
- - Equipment from DLC such as molotov, kingpin injector etc.
- - **SOME** Weapons modifications from DLC
+ - Perk Decks from DLC
+ - Equipment from DLC such as Molotov, kingpin injector etc.
+ - **SOME** Weapon Modifications from DLC
 
- I recommend doing separate builds, a host build, and a client build without getting cheater tag.
+I recommend doing separate builds, a host build, and a client build without getting CHEATER TAG.
 
- For example, without dlc unlocker I couldn't do some modifications to my shotgun. But with dlc unlocker, i can do modifications without having cheater tag and here is an example of modifications that are allowed and doesn't give cheater tag!
+For example, without DLC Unlocker I couldn't do some modifications to my shotgun. But with DLC Unlocker, I can do modifications without getting CHEATER TAG.
+ 
+ Here is an example of modifications that are allowed and don't give you CHEATER TAG!
 
- ## Example of a shotgun with DLC weapon modifications WITHOUT getting cheater tag
+ ## Shotgun with DLC weapon modifications WITHOUT getting CHEATER TAG
 
 ![mod01](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/mod01.png)
 
@@ -54,14 +78,14 @@ Start the game and enjoy!
 Single Fire / Auto Fire
 ![cheatertag01mod](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/cheatertag01.png)
 
-Ak Rubber Grip
+AK Rubber Grip
 ![cheatertag02mod](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/cheatertag02.png)
 
-## Outfit / Gloves / Characters / Perck Deck / Throwable
+## Outfit / Gloves / Characters / Perk Deck / Throwable
 
-It doesnt give cheater tag
+These don't give you CHEATER TAG
 
-![perdkdeck](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/perkdeck.png)
+![perkdeck](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/perkdeck.png)
 
 ![throwable](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/throwable.png)
 
@@ -73,7 +97,7 @@ It doesnt give cheater tag
 ![characters](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/characters.png)
 
 ## Bypass Cheater Kicker
-Bypass by changing your way the name of this mod in `mod.txt`
+Bypass by changing the mod's fields in `mod.txt`
 ```js
 
 {
@@ -96,5 +120,4 @@ Bypass by changing your way the name of this mod in `mod.txt`
 Download [here!](https://github.com/8fn/LegendarySkins-PD2)
 
 ## Contributing
-If you want to contribute and make it better, your help is very welcome. Feel free to make pull requests.
-
+If you want to contribute and make this repository better, your help is very welcome. Feel free to make pull requests.

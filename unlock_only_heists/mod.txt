@@ -1,6 +1,6 @@
 {
-    "name": "DLC unlocker",
-    "description": "Unlocks chosen DLCs",
+    "name": "Selective Downloadable Content",
+    "description": "Only chosen Downloadable Content",
     "author": "",
     "contact": "",
     "version": "v1.0.0",
