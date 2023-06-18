@@ -1,6 +1,6 @@
 {
-    "name": "All DLC Unlocker",
-    "description": "Unlocks all DLCs",
+    "name": "Downloadable Content",
+    "description": "All Downloadable Content",
     "author": "tsk.xz",
     "contact": "@tsk.xz",
     "version": "v1.0.0",
