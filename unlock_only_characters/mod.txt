@@ -1,6 +1,6 @@
 {
-    "name": "Characters",
-    "description": "Get characters",
+    "name": "Character Unlocker",
+    "description": "Unlocks all Characters",
     "author": "tsk.xz",
     "contact": "@tsk.xz",
     "version": "v1.0.0",

@@ -1,5 +1,5 @@
 {
-    "name": "DLC unlocker",
+    "name": "DLC Unlocker",
     "description": "Unlocks chosen DLCs",
     "author": "",
     "contact": "",

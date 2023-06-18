@@ -1,8 +1,8 @@
 {
-    "name": "Hello World!",
-    "description": "Testing Lua",
-    "author": "",
-    "contact": "",
+    "name": "All DLC Unlocker",
+    "description": "Unlocks all DLCs",
+    "author": "tsk.xz",
+    "contact": "@tsk.xz",
     "version": "v1.0.0",
     
     "hooks": [
