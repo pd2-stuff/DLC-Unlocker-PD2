@@ -18,11 +18,11 @@ To find the game folder you can do the following:
 
 If you're on Steam:
 
-![steam_browse_local_files](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/steam_local_files.gif)
+![steam_browse_local_files](https://raw.githubusercontent.com/pd2-stuff/DLC-Unlocker-PD2/master/docs/img/steam_local_files.gif)
 
 If you're on Epic Games: (Ignore the fact the example shows GTA, you can do the same for Payday 2)
 
-![epic_browse_local_files](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/epic_local_files.gif)
+![epic_browse_local_files](https://raw.githubusercontent.com/pd2-stuff/DLC-Unlocker-PD2/master/docs/img/epic_local_files.gif)
 
 Then, just extract the zip into the Payday 2 mods folder!
 
@@ -30,7 +30,7 @@ If you don't have a mods folder yet, launch Payday 2 once after you've installed
 
 This popup will appear. Press 'Yes' and wait until it's done.
 
-![superblt_popup](https://raw.githubusercontent.com/8fn/DLC-Unlocker-PD2/master/docs/img/superblt_popup.png)
+![superblt_popup](https://raw.githubusercontent.com/pd2-stuff/DLC-Unlocker-PD2/master/docs/img/superblt_popup.png)
 
 Afterwards, you should see the mods folder and you're ready to install the DLC Unlocker.
 
