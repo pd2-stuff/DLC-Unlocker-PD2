@@ -5,6 +5,11 @@
 </p>
 
 ## ⚠️Warning⚠️
+
+⚠️If you want to unlock all DLCs, only drag the unlock_all_dlcs folder into the mods folder  
+⚠️If you only want to unlock Characters, only drag the unlock_only_characters folder into the mods folder  
+⚠️If you only want to unlock Heists, only drag the unlock_only_heists folder into the mods folder
+
 **ALWAYS** do separate builds!!!  
 
 Attention, **SOME** weapons and weapon modifications are allowed, but most of them give you CHEATER TAG. If you want to enter a public lobby, make sure you avoid using weapons, weapon modifications, masks and weapons colors that are DLC - otherwise, you will be automatically kicked from the game.
@@ -33,11 +38,6 @@ This popup will appear. Press 'Yes' and wait until it's done.
 ![superblt_popup](https://raw.githubusercontent.com/pd2-stuff/DLC-Unlocker-PD2/master/docs/img/superblt_popup.png)
 
 Afterwards, you should see the mods folder and you're ready to install the DLC Unlocker.
-
-
-⚠️If you want to unlock all DLCs, only drag the unlock_all_dlcs folder into the mods folder  
-⚠️If you only want to unlock Characters, only drag the unlock_only_characters folder into the mods folder  
-⚠️If you only want to unlock Heists, only drag the unlock_only_heists folder into the mods folder
 
 
 Start the game and enjoy!
