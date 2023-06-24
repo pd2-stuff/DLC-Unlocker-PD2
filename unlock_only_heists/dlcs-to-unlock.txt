@@ -18,3 +18,4 @@ pent
 ranc
 trai
 corp
+pal
