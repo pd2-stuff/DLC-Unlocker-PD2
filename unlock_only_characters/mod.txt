@@ -1,0 +1,14 @@
+{
+    "name": "Character",
+    "description": "All Characters",
+    "author": "tsk.xz",
+    "contact": "@tsk.xz",
+    "version": "v1.0.0",
+    
+    "hooks": [
+    {
+        "hook_id": "lib/managers/dlcmanager",
+        "script_path": "characters_unlocker.lua"
+    }
+    ]
+}

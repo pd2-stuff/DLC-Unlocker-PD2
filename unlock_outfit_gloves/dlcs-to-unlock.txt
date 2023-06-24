@@ -1,0 +1,13 @@
+gpo
+pgo
+trd
+mbs
+sdtp
+cctp
+snow
+gdtp
+txt1
+txt2
+tma1
+txt3
+txt4
