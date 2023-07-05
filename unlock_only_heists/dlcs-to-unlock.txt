@@ -21,3 +21,5 @@ corp
 pal
 chas
 deep
+hl_miami
+hlm2_deluxe
