@@ -17,7 +17,7 @@ Attention, **SOME** weapons and weapon modifications are allowed, but most of th
 
 ## Installation
 You need SuperBLT for the mod to work. [Download it here.](https://superblt.znix.xyz)  
-Download the DLC Unlocker [here!](https://github.com/8fn/DLC-Unlocker-PD2/archive/refs/heads/master.zip)  
+Download the DLC Unlocker [here!](https://github.com/pd2-stuff/DLC-Unlocker-PD2/archive/refs/heads/master.zip)  
 
 To find the game folder you can do the following:
 
