@@ -12,7 +12,7 @@ You only can choose 1 folder to drop at mods folder
 
 ## Installation
 You need SuperBLT for the mod to work. [Download it here.](https://superblt.znix.xyz)  
-Download the DLC Unlocker [here!](https://codeload.github.com/pd2-stuff/DLC-Unlocker-PD2/zip/refs/heads/master)  
+Download the DLC Unlocker [here!](https://codeload.github.com/pd2-stuff/DLC-Unlocker-PD2/zip/refs/heads/safe-unlock)  
 
 To find the game folder you can do the following:
 
